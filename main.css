@@ -262,6 +262,8 @@ footer {
 @media (max-width:400px) {
     .mb-btn {
         display: contents;
-        margin-bottom: 3%;
+    }
+    .button {
+        margin-bottom: 3% !important;
     }
 }
